@@ -12,7 +12,7 @@ Before running this application, ensure you have the following software installe
 * Clone the repository to your local machine:
   ```
   git clone 
-  cd receipt-processor
+  cd receipt-processor-challenge-Enkhzaya
   ```
 * Install the required dependencies using npm:
 
@@ -22,10 +22,7 @@ Before running this application, ensure you have the following software installe
 
 
 ## Running the Application 
-* Navigate to the project directory:
-  ```
-  cd receipt-processor
-  ```
+
 * Start the Express.js server:
 
   ```
