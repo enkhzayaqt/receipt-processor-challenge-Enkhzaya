@@ -96,7 +96,7 @@ Method: GET
 Response: A JSON object containing the number of points awarded
 ```json
 {
-  "points": 32
+  "points": 28
 }
 
 ```
