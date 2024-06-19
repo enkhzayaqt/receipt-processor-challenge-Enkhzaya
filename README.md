@@ -87,7 +87,7 @@ Response: A JSON object containing the ID assigned to the receipt.
 
 ```
 
-### GET /receipts/:id/process
+### GET /receipts/:id/points
 Description: Returns the points awarded for the receipt.
 
 URL: http://localhost:3000/receipts/:id/points
